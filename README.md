@@ -20,18 +20,29 @@ A simple **Android login application** with "Remember Me" functionality. Users c
 
 ## 🖼 Screenshots
 
-*(Add screenshots of the login screen for better visualization.)*
-
 <table>
 <tr>
 <td>
 
-**Login Screen**<br>
-<img src="https://via.placeholder.com/300x600.png?text=Login+Screen" width="300"/>
+**Login Page (Valid Credentials)**<br>
+<img src="https://github.com/SaraArif6198/SimpleAndroidLoginApp/raw/main/WhatsApp%20Image%202025-11-25%20at%2020.27.34_7c4d3776.jpg" width="250"/>
+
+</td>
+<td>
+
+**Invalid Email**<br>
+<img src="https://github.com/SaraArif6198/SimpleAndroidLoginApp/raw/main/WhatsApp%20Image%202025-11-25%20at%2020.27.32_8c3ff3da.jpg" width="250"/>
+
+</td>
+<td>
+
+**No Password**<br>
+<img src="https://github.com/SaraArif6198/SimpleAndroidLoginApp/raw/main/WhatsApp%20Image%202025-11-25%20at%2020.27.31_ec012ef0.jpg" width="250"/>
 
 </td>
 </tr>
 </table>
+
 
 ---
 
